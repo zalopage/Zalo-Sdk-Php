@@ -1,0 +1,20 @@
+{
+    "name": "zalopage/zalo-sdk-php",
+    "version": "dev-master",
+    "description": "Zalo Page PHP SDK.",
+    "autoload": {
+        "psr-0": {
+            "service": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hoang Thien An",
+            "email": "hoangthienan@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzle/guzzle": "3.7.*"
+    }
+}
