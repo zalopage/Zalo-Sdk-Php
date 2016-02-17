@@ -32,4 +32,6 @@ Example
   }
 ```
 
-Credits: http://developer.page.zaloapp.com/
+Credits: 
+* http://zms.apitoy.com/
+* http://developer.page.zaloapp.com/
